@@ -1,0 +1,228 @@
+/*font-family: 'Playfair Display', serif;*/
+/*font*/
+
+
+/*Common*/
+body{
+margin: 0;
+padding: 0;
+font-family: 'Playfair Display', serif; 
+font-size:16px;
+font-weight: 400;
+color:#626262;
+}
+
+                       /*Common End*/
+                       /*Header start*/
+header{
+	padding: 0 50px;
+	border: 1px solid;
+
+}
+.container{
+	margin: 0 auto;
+	width: 90%;
+	
+	overflow: hidden;
+}
+.logo{
+	margin-top: 13px;
+	width: :13%;
+	
+	float: left;
+
+}
+.logo a{
+	display: block;
+
+}
+.logo a img{
+	width: 100%;
+
+
+}
+.menu{
+	width: 65%;
+	
+	float: right;
+
+
+}
+.menu ul{
+
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	margin: 0 50px;
+	text-decoration: none;
+	padding: 3px 3px;
+	display: inline-block;
+	text-transform: uppercase;
+	color: #626262;
+	border-bottom: 1px solid transparent;
+}
+.menu ul li:last-child a{
+padding-right: 0;
+}
+.menu ul li a:hover{
+color: #000000;
+border-bottom: 1px solid red;
+}
+
+                  /*Header End*/
+                  /*Banner Start*/
+.banner{}
+.b-image{}
+.b-image img{
+	width: 100%;
+}
+
+                  /*Banner End*/
+                  /*About Start*/
+
+
+
+.getaway{
+	padding: 80px 0;
+
+}
+.container2{
+	margin: 0 auto;
+	width: 80%;
+	
+
+
+
+}
+.b_contant{
+
+
+
+}
+.c_light{
+	margin: 0;
+	font-family: 'Ubuntu', san-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #b4ad9e;
+	text-transform: uppercase;
+}
+.c_heading{
+	margin: 20px 0 30px;
+	font-size: 30px;
+	font-weight: 400;
+
+
+}
+.c_text{
+	margin:0;
+	line-height: 27px;
+
+}
+.mt_40{
+	margin-top: 40px;
+
+
+}
+                  /*About End*/
+                  /*Blog Start*/
+
+
+.blog{
+padding: 30px 0 80px;
+
+
+
+}
+.b_wrapper{
+	overflow: hidden;
+
+
+}
+.single{
+	margin: 50px;
+	width: 47%;
+	float: left;
+}
+.single:nth-child(even){
+margin-left: 6%;
+}
+
+
+.s_image{
+	margin-bottom: 25px;
+	width: 100%;
+	
+
+}
+                  /*Blog End*/
+                  /*News Start*/
+.news{
+	margin-bottom: 20px;
+	background-color: #f0f0f0;
+	min-height: 400px;
+
+}
+
+
+.singup{
+	text-align: center;
+
+
+
+}
+.s_h1{
+	color: #333;
+
+
+}
+
+.s_form{
+
+
+}
+.s_form button img{
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  /*News End*/
+
